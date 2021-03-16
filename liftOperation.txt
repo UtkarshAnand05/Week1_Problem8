@@ -1,0 +1,15 @@
+Details for lift operation for a five floor building :-
+
+Asset :-
+No. of floors in the building = 5
+Floor No. = Ground, First, Second, Third, Fourth and Fifth
+
+Operation :-
+1. Go to a desired floor.
+2. Call lift to a desired floor.
+
+States :-
+1. Idle - Wait for the user input.
+2. Running - Go to a desired floor location.
+3. Fault - Go to ground
+4. End - Operation terminated
